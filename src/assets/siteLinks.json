@@ -6,8 +6,8 @@
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "图床",
+    "link": "https://lsky.xyuxyu.cn/"
   },
   {
     "icon": "CompactDisc",
@@ -17,21 +17,16 @@
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://nav.xyuxyu.top/"
   },
   {
     "icon": "Book",
     "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "link": "https://web.xyuxyu.top/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
   }
 ]
