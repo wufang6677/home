@@ -43,9 +43,13 @@ const changeBg = (type) => {
   } else if (type == 1) {
     bgUrl.value = "https://api.dujin.org/bing/1920.php";
   } else if (type == 2) {
-    bgUrl.value = "https://api.vvhan.com/api/wallpaper/views";
+    // bgUrl.value = "https://api.vvhan.com/api/wallpaper/views";
+    bgUrl.value = "https://picsum.photos/1920/1080?random";
+    // bgUrl.value = "https://picsum.photos/1920/1080";
   } else if (type == 3) {
-    bgUrl.value = "https://api.vvhan.com/api/wallpaper/acg";
+    // bgUrl.value = "https://api.vvhan.com/api/wallpaper/acg";
+    bgUrl.value = "https://www.dmoe.cc/random.php";
+    // bgUrl.value = "https://api.mtyqx.cn/tapi/random.php";
   }
 };
 
